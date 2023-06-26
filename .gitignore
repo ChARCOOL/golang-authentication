@@ -1,0 +1,10 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+postgres-data
+go.work
